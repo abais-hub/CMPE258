@@ -35,4 +35,3 @@ Part 3: Extra credit
 
 The video presentation is uploaded underneath
 https://youtu.be/EH7GP8uUPa0
-A copy of the same compressed video is also uploaded in this folder.
