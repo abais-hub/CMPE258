@@ -32,3 +32,7 @@ Part 3: Extra credit
 3) Use a text dataset to solve a Text Sentiment Analysis problem using AutoML
 
 4) Use a video dataset to solve a Video Object Tracking problem using AutoML
+
+The video presentation is uploaded underneath (requires SJSU ID login) and opens best in https://gdrivevideo.com 
+A copy of the same compressed video is also uploaded in this folder.
+https://drive.google.com/file/d/17C3Nb6SqMsP1oYmA_X54ku1-SGM242pF/view?usp=sharing
