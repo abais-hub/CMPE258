@@ -13,12 +13,13 @@ i) Should display top common errors like in below link.
 
 Accuracy without dropout layer, 25 epochs: 98.01%
 Accuracy with dropout layer, 25 epochs: 97.83%
-Accuracy with dropout layer + image augmentation (Phd trained params), 25 epochs: 99.23%
+Accuracy with dropout layer + image augmentation (Phd trained image 
+augmentation params), 25 epochs: 99.23%
 
 Extra points if you hit 99% test accuracy with these changes (very challenging given you are not using CNNs).
 Achieved accuracy of 99.23% without CNN
 
 Part 2 : Keras
 Tried both without and with CNN with dropout layer, adaptive learning rate, 
-patience =5, and image augmentation (Phd trained params), 10 epochs
-Accuracy with dropout layer + Flatten + CNN, 10 epochs = 
+patience =5, and image augmentation (Phd trained image augmentation params)
+Accuracy with dropout layer + Flatten + CNN, 10 epochs = 95.56  
