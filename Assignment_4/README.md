@@ -22,4 +22,4 @@ Achieved accuracy of 99.23% without CNN
 Part 2 : Keras
 Tried both without and with CNN with dropout layer, adaptive learning rate, 
 patience =5, and image augmentation (Phd trained image augmentation params)
-Accuracy with dropout layer + Flatten + CNN, 10 epochs = 98.28  
+Accuracy with dropout layer + Flatten + CNN, 10 epochs = 98.28%
