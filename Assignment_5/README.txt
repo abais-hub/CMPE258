@@ -1,4 +1,9 @@
 
+Extra points for getting state of art 3.0 rmse accuracy - with innovative features engineering and processing
+
+NOTE:
+This is the complete description of things attempted for innovative feature engineering and processing to meet extra credit requirement.
+ 
 Part A) End2End tfx pipeline with EDA, visualization on Chicago Taxi dataset
 1. Added calculate distance travelled by cab, related histogram visuals
 2. Added avg distance travelled
